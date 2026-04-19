@@ -20,7 +20,7 @@ This project generates and analyzes Amazon sales data using Python and Pandas. I
 
 ## 📁 Project Structure
 
-```
+
 amazon-sales-data-analysis/
 │── amazonsales.py
 │── amazon_sales_dataset.xlsx
