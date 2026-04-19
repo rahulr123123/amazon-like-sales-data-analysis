@@ -1,4 +1,4 @@
-# amazon-like-sales-data-analysis
+
 # 📊 Amazon Sales Data Analysis (Python Project)
 
 ## 🚀 Overview
